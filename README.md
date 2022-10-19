@@ -5,7 +5,7 @@ next.js, typescript, storybook, eslint, husky, webpack5
 First, run the development server:
 
 ```bash
-yarn install -- recommended
+yarn install
 # or
 npm install
 
@@ -19,6 +19,10 @@ yarn storybook
 # or
 npm run storybook
 ```
+
+Commit lint
+
+https://github.com/conventional-changelog/commitlint/#what-is-commitlint
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
