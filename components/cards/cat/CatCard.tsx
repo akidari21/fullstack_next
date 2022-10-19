@@ -16,7 +16,7 @@ const CatCard: React.FC<ICatCard> = ({ tag, title, body, author, time }) => {
       <div className={styles.card}>
         <div className={styles.card__header}>
           <Image
-            src="/time-cat.jpg"
+            src="https://www.valleywestvets.com/sites/default/files/interesting-cat-facts.jpg"
             alt="card__image"
             className={styles.card__image}
             width="600"
