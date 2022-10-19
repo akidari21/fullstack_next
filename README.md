@@ -20,9 +20,14 @@ yarn storybook
 npm run storybook
 ```
 
-Commit lint
+## Commit lint (커밋 제목 규칙 참고)
 
 https://github.com/conventional-changelog/commitlint/#what-is-commitlint
+
+```bash
+# example
+git commit -m 'fix: error fixed'
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
